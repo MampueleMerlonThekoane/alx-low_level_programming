@@ -1,5 +1,13 @@
 #include "main.h"
-int main(){
+
+/*f
+ * f
+ * f
+ */
+
+int main()
+
+{
 
 _putchar('_');
 _putchar('p');
