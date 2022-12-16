@@ -1,16 +1,18 @@
-#include <stdio.h>
+#include <main.h>
 /**
- * main -Prints the Alphabetic
- * Return : Always Success
+ * Prints the Alphabet -make the alphabet
+ * Return : void
  */
 
-int main(void){
+void print_alphabet(void)
+{
 
 char c;
 
 for(c = 'a'; c<='z'; c++)
-putchar(c);
-putchar('\n');
-return (0);
+{
+	putchar(c);
+}
 
+putchar('\n');
 }
