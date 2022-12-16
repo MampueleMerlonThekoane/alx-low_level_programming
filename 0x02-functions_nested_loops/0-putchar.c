@@ -5,7 +5,7 @@
  * f
  */
 
-int main()
+int main(void)
 
 {
 
