@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * Prints the Alphabet -make the alphabet
  * Return : void
@@ -11,8 +11,8 @@ char c;
 
 for(c = 'a'; c<='z'; c++)
 {
-	putchar(c);
+	_putchar(c);
 }
 
-putchar('\n');
+_putchar('\n');
 }
