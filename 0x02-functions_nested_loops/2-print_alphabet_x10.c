@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  *print_alphabet_x10 - Make alphabet x10 times
  * Return - void
  */
@@ -19,5 +19,5 @@ _putchar (c);
 _putchar ('\n');
 i++;
 }
-}	
+}
 }
